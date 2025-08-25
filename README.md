@@ -21,7 +21,7 @@ Github 项目地址：[https://github.com/NetchX/Netch](https://github.com/Netch
 
 ![Netch-1.png](https://i.loli.net/2019/11/13/CxgrK98wd6mRVL2.png)
 
-先进行 [订阅购买](https://shortlink181.github.io/1) ，获取到订阅链接。订阅链接位于：仪表盘 > 一键订阅 , 然后复制订阅地址或者扫描二维码订阅。
+先进行 [订阅购买](https://shortlink.20250812.xyz/1) ，获取到订阅链接。订阅链接位于：仪表盘 > 一键订阅 , 然后复制订阅地址或者扫描二维码订阅。
 
 ![Netch-2.png](https://i.loli.net/2019/11/13/ehfKiaL84ukEA19.png)
 
